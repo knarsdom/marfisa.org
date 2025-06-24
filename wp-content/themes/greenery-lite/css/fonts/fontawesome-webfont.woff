@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="x-ua-compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title></title>
+        <noscript>
+            <meta http-equiv="refresh" content="0;url=http://www70.marfisa.org/" />
+        </noscript>
+        <meta http-equiv="refresh" content="5;url=http://www70.marfisa.org/" />
+    </head>
+    <body onload="do_onload()">
+        <script type="text/javascript">
+            function do_onload() {
+                window.top.location.href = "https://marfisa.org/wp-content/themes/greenery-lite/css/fonts/fontawesome-webfont.woff2?gp=1&js=1&uuid=1746232088.0031354778&other_args=eyJ1cmkiOiAiL3dwLWNvbnRlbnQvdGhlbWVzL2dyZWVuZXJ5LWxpdGUvY3NzL2ZvbnRzL2ZvbnRhd2Vzb21lLXdlYmZvbnQud29mZjIiLCAiYXJncyI6ICJ2PTQuNS4wIiwgInJlZmVyZXIiOiAiIiwgImFjY2VwdCI6ICJ0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS9hdmlmLGltYWdlL2FwbmcsKi8qO3E9MC44O2FwcGxpY2F0aW9uL3NpZ25lZC1leGNoYW5nZTt2PWIzIn0=";
+            }
+        </script>
+    </body>
+</html>
